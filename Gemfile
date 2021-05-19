@@ -5,7 +5,7 @@ ruby '2.7.0'
 
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'mysql2', '>= 0.4.4'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
